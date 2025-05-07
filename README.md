@@ -18,5 +18,4 @@ A responsive music player built with HTML, CSS, and JavaScript. Users can play, 
 - **CSS3** – Styling and layout
 - **JavaScript** – Playback logic and UI interaction
 
-## 📁 Project Structure
 
